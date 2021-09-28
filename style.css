@@ -13,8 +13,8 @@ body {
   width: 100%;
   height: 100vh;
   /* overflow: hidden; */
-  padding: 10px;
-  background: linear-gradient(to bottom, #db68ea 0%, #497be8 100%);
+  padding: 101px;
+  background: linear-gradient(to bottom, #e849ab 0%, #497be8 100%);
 }
 .wrapper {
   background: rgb(250, 245, 245);
